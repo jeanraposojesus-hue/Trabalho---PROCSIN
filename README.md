@@ -85,7 +85,7 @@ Através dos experimentos realizados nos cadernos de simulação (`Gráficos_PRO
       <b>Jean Raposo Soares de Jesus</b><br/>
     </td>
     <td align="center">
-      <b>Igor Pinheiro Torres</b>
+      <b>Rony Nassar Boukai Mouawad</b>
     </td>
     <td align="center">
       <b>Fabio Luiz Cocco Favre da Silva</b>
